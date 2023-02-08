@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Auburn
+  adjective: Auburn
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -46,10 +46,10 @@ create_pages:
 custom_css: []
 custom_js:
   - /assets/js/custom.js
-data_edit_url: data
+data_edit_url: https://prose.io/MeghaStha/AuburnAldataRepo/edit/develop/data/indicator_1-1-1.csv
 data_fields:
-  units: ''
-  series: ''
+  units: Units
+  series: Series
 date_formats: []
 disclaimer:
   phase: ''
@@ -96,11 +96,11 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: frontpage.heading_short
-  description: frontpage.instructions_shorter
+  title: Auburn SDG Goals
+  description: It is showing Auburn SDG data
 frontpage_introduction_banner:
-  title: frontpage.intro_title
-  description: frontpage.intro_body
+  title: Auburn SDG
+  description: It is showing Auburn SDG data
 goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
 goal_image_extension: ''
 goals_page:
@@ -119,7 +119,7 @@ hide_single_unit: true
 ignored_disaggregations: []
 indicator_config_form:
   enabled: true
-  dropdowns: []
+  dropdowns: labels
   repository_link: /tree/develop/indicator-config
   translation_link: ''
 indicator_data_form:
@@ -192,7 +192,7 @@ menu:
   - path: /news
     translation_key: menu.updates
     dropdown: []
-metadata_edit_url: metadata
+metadata_edit_url: http://prose.io/MeghaStha/AuburnAldataRepo/edit/develop/meta/[id].md
 metadata_tabs:
   - scope: national
     title: indicator.national_metadata
