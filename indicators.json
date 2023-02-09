@@ -139,7 +139,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/2-2-1",
-          "status": "notstarted"
+          "status": "notapplicable"
         },
         {
           "id": "2-2-2",
@@ -147,7 +147,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/2-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-3",
@@ -155,7 +155,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/2-2-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-3-1",
