@@ -56,9 +56,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: mzs0130@auburn.edu
+  suggestions: mzs0130@auburn.edu
+  functional: mzs0130@auburn.edu
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
@@ -192,6 +192,9 @@ menu:
   - path: /news
     translation_key: menu.updates
     dropdown: []
+  - path: my-example-page/
+    dropdown: []
+    translation_key: ArcGIS Online Maps
 metadata_edit_url: http://prose.io/MeghaStha/AuburnAldataRepo/edit/develop/meta/[id].md
 metadata_tabs:
   - scope: national
