@@ -47,7 +47,7 @@
         },
         {
           "id": "1-4-2",
-          "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",
+          "title": "Proportion of total adult household units with different type of occupancy - modified",
           "description": "",
           "keywords": "",
           "href": "/site/1-4-2",
@@ -55,7 +55,7 @@
         },
         {
           "id": "1-5-1",
-          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+          "title": "Number of deaths and injured attributed to disasters reported to state",
           "description": "",
           "keywords": "",
           "href": "/site/1-5-1",
@@ -127,7 +127,7 @@
         },
         {
           "id": "2-1-2",
-          "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",
+          "title": "Population suffering from food insecurity in percentage by county",
           "description": "",
           "keywords": "",
           "href": "/site/2-1-2",
@@ -143,7 +143,7 @@
         },
         {
           "id": "2-2-2",
-          "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",
+          "title": "Prevalence of malnutrition as overweight and obese - modified",
           "description": "",
           "keywords": "",
           "href": "/site/2-2-2",
@@ -151,7 +151,7 @@
         },
         {
           "id": "2-2-3",
-          "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",
+          "title": "Prevalence of anaemia in overall population (percentage) - modified",
           "description": "",
           "keywords": "",
           "href": "/site/2-2-3",
@@ -239,7 +239,7 @@
         
         {
           "id": "3-1-1",
-          "title": "Maternal mortality ratio",
+          "title": "Maternal mortality ratio - reported on state level",
           "description": "",
           "keywords": "",
           "href": "/site/3-1-1",
@@ -255,7 +255,7 @@
         },
         {
           "id": "3-2-1",
-          "title": "Under‐5 mortality rate",
+          "title": "Infant mortality rate - modified and reported by county",
           "description": "",
           "keywords": "",
           "href": "/site/3-2-1",
@@ -263,7 +263,7 @@
         },
         {
           "id": "3-2-2",
-          "title": "Neonatal mortality rate",
+          "title": "Neonatal mortality rate - modified and reported by county",
           "description": "",
           "keywords": "",
           "href": "/site/3-2-2",
@@ -271,7 +271,7 @@
         },
         {
           "id": "3-3-1",
-          "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",
+          "title": "Number of new HIV infections by race reported at county - modified",
           "description": "",
           "keywords": "",
           "href": "/site/3-3-1",
@@ -279,7 +279,7 @@
         },
         {
           "id": "3-3-2",
-          "title": "Tuberculosis incidence per 100,000 population",
+          "title": "Tuberculosis incidence per 100,000 population - modified",
           "description": "",
           "keywords": "",
           "href": "/site/3-3-2",
@@ -295,7 +295,7 @@
         },
         {
           "id": "3-3-4",
-          "title": "Hepatitis B incidence per 100,000 population",
+          "title": "Hepatitis B incidence rate reported at state level - modified",
           "description": "",
           "keywords": "",
           "href": "/site/3-3-4",
@@ -319,7 +319,7 @@
         },
         {
           "id": "3-4-2",
-          "title": "Suicide mortality rate",
+          "title": "Suicide mortality death number",
           "description": "",
           "keywords": "",
           "href": "/site/3-4-2",
@@ -335,7 +335,7 @@
         },
         {
           "id": "3-5-2",
-          "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",
+          "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in gallons - reported at state",
           "description": "",
           "keywords": "",
           "href": "/site/3-5-2",
@@ -343,7 +343,7 @@
         },
         {
           "id": "3-6-1",
-          "title": "Death rate due to road traffic injuries",
+          "title": "Death count due to road traffic injuries - modified",
           "description": "",
           "keywords": "",
           "href": "/site/3-6-1",
@@ -359,7 +359,7 @@
         },
         {
           "id": "3-7-2",
-          "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group",
+          "title": "Adolescent birth rate (aged 10–19 years) - modified",
           "description": "",
           "keywords": "",
           "href": "/site/3-7-2",
@@ -367,7 +367,7 @@
         },
         {
           "id": "3-8-1",
-          "title": "Coverage of essential health services",
+          "title": "Coverage of essential health services by type and age - modified",
           "description": "",
           "keywords": "",
           "href": "/site/3-8-1",
@@ -407,7 +407,7 @@
         },
         {
           "id": "3-a-1",
-          "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older",
+          "title": "High school youth with any use of tobacco products reported at state level",
           "description": "",
           "keywords": "",
           "href": "/site/3-a-1",
@@ -415,7 +415,7 @@
         },
         {
           "id": "3-b-1",
-          "title": "Proportion of the target population covered by all vaccines included in their national programme",
+          "title": "Proportion of the target population covered by all vaccines included in their national programme reported at state level",
           "description": "",
           "keywords": "",
           "href": "/site/3-b-1",
@@ -431,11 +431,11 @@
         },
         {
           "id": "3-b-3",
-          "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis",
+          "title": "global_indicators.3-d-3-title",
           "description": "",
           "keywords": "",
           "href": "/site/3-b-3",
-          "status": "complete"
+          "status": "notapplicable"
         },
         {
           "id": "3-c-1",
@@ -471,7 +471,7 @@
         
         {
           "id": "4-1-1",
-          "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",
+          "title": "Proportion of children and young people in Pk and kindergarten proficient in (i) reading and (ii) mathematics - modified",
           "description": "",
           "keywords": "",
           "href": "/site/4-1-1",
@@ -479,7 +479,7 @@
         },
         {
           "id": "4-1-2",
-          "title": "Completion rate (primary education, lower secondary education, upper secondary education)",
+          "title": "Completion rate high school and higher - modified",
           "description": "",
           "keywords": "",
           "href": "/site/4-1-2",
@@ -495,7 +495,7 @@
         },
         {
           "id": "4-2-2",
-          "title": "Participation rate in organized learning (one year before the official primary entry age), by sex",
+          "title": "Number of students in organized learning",
           "description": "",
           "keywords": "",
           "href": "/site/4-2-2",
@@ -503,7 +503,7 @@
         },
         {
           "id": "4-3-1",
-          "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",
+          "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex, age and race",
           "description": "",
           "keywords": "",
           "href": "/site/4-3-1",
@@ -527,7 +527,7 @@
         },
         {
           "id": "4-6-1",
-          "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",
+          "title": "Percentage of third graders achieveing numeracy skills - modified",
           "description": "",
           "keywords": "",
           "href": "/site/4-6-1",
@@ -559,7 +559,7 @@
         },
         {
           "id": "4-c-1",
-          "title": "Proportion of teachers with the minimum required qualifications, by education level",
+          "title": "Proportion of teachers certified, teacher to student ratio, and presence of school counselor",
           "description": "",
           "keywords": "",
           "href": "/site/4-c-1",
@@ -615,7 +615,7 @@
         },
         {
           "id": "6-4-2",
-          "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+          "title": "Level of water stress recorded as freshwater withdrawal by Auburn University - modified",
           "description": "",
           "keywords": "",
           "href": "/site/6-4-2",
@@ -687,7 +687,7 @@
         },
         {
           "id": "7-2-1",
-          "title": "Renewable energy share in the total final energy consumption",
+          "title": "Renewable energy percentage use in the total final energy consumption - reported at state level",
           "description": "",
           "keywords": "",
           "href": "/site/7-2-1",
@@ -727,7 +727,7 @@
         
         {
           "id": "8-1-1",
-          "title": "Annual growth rate of real GDP per capita",
+          "title": "Annual growth rate of real GDP in millions of chained 2012 dollars",
           "description": "",
           "keywords": "",
           "href": "/site/8-1-1",
@@ -767,7 +767,7 @@
         },
         {
           "id": "8-5-1",
-          "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities",
+          "title": "Mean hourly wages in dollars based on type of occupation - modified",
           "description": "",
           "keywords": "",
           "href": "/site/8-5-1",
@@ -775,7 +775,7 @@
         },
         {
           "id": "8-5-2",
-          "title": "Unemployment rate, by sex, age and persons with disabilities",
+          "title": "Unemployment rate - modified",
           "description": "",
           "keywords": "",
           "href": "/site/8-5-2",
@@ -791,7 +791,7 @@
         },
         {
           "id": "8-7-1",
-          "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age",
+          "title": "Number of children in child labor by age group",
           "description": "",
           "keywords": "",
           "href": "/site/8-7-1",
@@ -799,7 +799,7 @@
         },
         {
           "id": "8-8-1",
-          "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status",
+          "title": "Fatal occupational injuries count",
           "description": "",
           "keywords": "",
           "href": "/site/8-8-1",
@@ -823,7 +823,7 @@
         },
         {
           "id": "8-10-1",
-          "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults",
+          "title": "Number of commercial bank branches",
           "description": "",
           "keywords": "",
           "href": "/site/8-10-1",
